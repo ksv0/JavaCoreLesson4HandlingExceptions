@@ -1,0 +1,8 @@
+
+z	java:S135H"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ô‘‹”ß1
+v	java:S135…"YReduce the total number of break and continue statements in this loop to use at most one.(¾İ”8õ‘‹”ß1
+=	java:S131;""Add a default case to this switch.(ìúÇV8º’‹”ß1
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¬Ğãİ8¾’‹”ß1
+[
+java:S1854Ä"8Remove this useless assignment to local variable "flag".(³ÖÉÿÿÿÿÿ8¾’‹”ß1
